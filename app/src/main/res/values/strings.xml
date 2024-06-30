@@ -1,3 +1,14 @@
 <resources>
-    <string name="app_name">Save</string>
+    <!--TODO: clean-->
+    <string name="app_name">Chronicle</string>
+    <string name="todo">TODO</string>
+    <string name="TODO">TODO</string>
+    <string name="TOD">TODO</string>
+    <string name="TOTO">TODO</string>
+    <string name="to">TODO</string>
+    <string name="tolo">TOlO</string>
+    <string name="oi">TODO</string>
+    <string name="pop">TODO</string>
+    <string name="edd_title_hint">Введите заголовок</string>
+    <string name="edd_dick_hint">Введите описание</string>
 </resources>
